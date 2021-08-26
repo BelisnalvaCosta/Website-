@@ -10,7 +10,7 @@
             "request": "launch",
             "type": "pwa-msedge",
             "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "webRoot": "${localhost}"
         },
 
         
@@ -18,7 +18,7 @@
             "type": "pwa-msedge",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\usuario1\\Meu_Site\\index.html"        
+            "file": "C:/Users/usuario1/Meu_Site/index.html"      
         }
     ]
 }
