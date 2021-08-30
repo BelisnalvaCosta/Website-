@@ -10,10 +10,10 @@
             "request": "launch",
             "type": "pwa-msedge",
             "url": "http://localhost:8080",
-            "webRoot": "${localhost}"
+            "webRoot": "${Meu_Site}"
         },
 
-        
+           
         {
             "type": "pwa-msedge",
             "request": "launch",
